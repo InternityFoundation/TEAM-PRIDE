@@ -1,8 +1,7 @@
 ## TEAM-PRIDE
-
 BLUEPRINT
 
-##Project Name
+## Project Name
 Neat Freak (Mobile application-an initiative for Swachh Bharat)
 
 ### Project Objectives
@@ -29,12 +28,14 @@ For converting the image uploaded by the citizens automatically to precious data
 
 Concerned Departments and Authorities can be-
 
--Ministry of Environment and Forests
--Ministry of Health and Family Welfare
--Ministry of Railways
--Shipping, Road Transport and Highways
--Ministry of Water Resources
+1. Ministry of Environment and Forests
+2. Ministry of Health and Family Welfare
+3. Ministry of Railways
+4. Shipping, Road Transport and Highways
+5. Ministry of Water Resources
+
 Team Credentials: 
+
 a) Vinay Bharwani
 b) Dheeraj
 c) Suhanshu
