@@ -1,5 +1,5 @@
 ## TEAM-PRIDE
-BLUEPRINT
+
 
 ## Project Name
 Neat Freak (Mobile application-an initiative for Swachh Bharat)
